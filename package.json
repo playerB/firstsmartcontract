@@ -1,0 +1,16 @@
+{
+  "name": "mycontract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ganache-cli": "^6.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
