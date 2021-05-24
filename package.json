@@ -6,7 +6,10 @@
     "ganache-cli": "^6.12.2"
   },
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@openzeppelin/contracts": "^4.1.0",
+    "chai": "^4.3.4",
+    "ethers": "^5.2.0",
     "hardhat": "^2.3.0"
   },
   "scripts": {

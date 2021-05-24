@@ -1,0 +1,6 @@
+(await contract.retrieve()).toString()
+await contract.retrieve()
+await contract.store(32)
+const contract = await Contract.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const Contract = await ethers.getContractFactory("Box")
+const Box = await ethers.getContractFactory("Box")
