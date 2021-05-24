@@ -5,7 +5,9 @@
   "dependencies": {
     "ganache-cli": "^6.12.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "hardhat": "^2.3.0"
+  },
   "scripts": {
     "test": "mocha"
   },
