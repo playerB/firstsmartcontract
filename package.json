@@ -6,6 +6,7 @@
     "ganache-cli": "^6.12.2"
   },
   "devDependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
     "hardhat": "^2.3.0"
   },
   "scripts": {
